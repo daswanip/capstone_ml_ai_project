@@ -1,2 +1,2 @@
 # capstone_ml_ai_project
-Capstone project - Black Box optimizer for Machine Learning
+This is a repository for my Capstone project. Its goals and key technologies that will be used will be defined and added later.
